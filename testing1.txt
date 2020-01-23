@@ -2,3 +2,5 @@ this is just for testing "in order to" make sure that git is working correctly
 
 This is prep for the upcoming semester
 
+adding an extra line
+
